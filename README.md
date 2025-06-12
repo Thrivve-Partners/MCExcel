@@ -1,6 +1,6 @@
 # MCExcel - Monte Carlo Reading Simulation
 
-A comprehensive Excel workbook that demonstrates Monte Carlo simulation techniques to predict reading completion times based on historical daily reading throughput data.
+This Excel workbook is a hands-on demo of how Monte Carlo simulation can forecast book completion times based on how much you’ve actually been reading day to day: [backstory of this project](https://medium.com/thrivve-partners/i-asked-a-room-full-of-leaders-to-predict-the-future-with-dice-076618d028ab)
 
 ## Overview
 
