@@ -136,7 +136,7 @@ This example model is useful for:
 
 ## File Information
 
-- **Version**: 1.0 Public
+- **Version**: 1.1 Public
 - **Format**: Excel (.xlsx)
 - **Compatibility**: Excel 2016+, Excel Online, Google Sheets (with limitations)
 - **Size**: Contains extensive simulation data and formulas
